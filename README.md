@@ -69,4 +69,4 @@ This project analyzes the Netflix Titles dataset to understand trends in movies 
 ---
 
 ## 📎 GitHub Repository Link
-(Add your repo link here after uploading)
+(https://github.com/jayraut1/netflix-data-analysis)
